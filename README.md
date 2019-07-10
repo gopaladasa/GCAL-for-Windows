@@ -205,3 +205,53 @@ Wish List
 - rich text output
 - update of application/data via Internet
 
+GCAL 3.1
+- Win32
+
+GCAL 4
+- Win32
+
+GCAL 4.1
+- Win32
+
+GCAL 5
+RELEASE DATE: 15-JUL-2009
+- Win32
+
+GCAL 5.3
+RELEASE DATE: 22-SEP-2009
+- Win32
+
+GCAL 5.4
+RELEASE DATE: 23-SEP-2009
+Win32
+
+GCAL 5.5
+RELEASE DATE: 13-OCT-2009
+Win32
+
+GCAL 5.6
+RELEASE DATE: 5-NOV-2009
+Win32
+
+GCAL 5.7
+RELEASE DATE: 18-NOV-2009
+Win32
+
+GCAL 6
+RELEASE DATE: 13-DEC-2009
+Win32
+
+
+
+
+
+
+
+
+
+
+
+
+
+
