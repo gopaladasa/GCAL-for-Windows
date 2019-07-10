@@ -224,34 +224,81 @@ RELEASE DATE: 22-SEP-2009
 
 GCAL 5.4
 RELEASE DATE: 23-SEP-2009
-Win32
+- Win32
 
 GCAL 5.5
 RELEASE DATE: 13-OCT-2009
-Win32
+- Win32
 
 GCAL 5.6
 RELEASE DATE: 5-NOV-2009
-Win32
+- Win32
 
 GCAL 5.7
 RELEASE DATE: 18-NOV-2009
-Win32
+- Win32
 
 GCAL 6
 RELEASE DATE: 13-DEC-2009
-Win32
+- Win32
 
+GCAL 7
+RELEASE DATE: 9-MAR-2010
+- Win32
 
+GCAL 8
+RELEASE DATE: 24-JUN-2010
+- Win32
 
+GCAL 9
+RELEASE DATE: 8-OCT-2010
+- Win32 (MFC)
 
+GCAL 9.01
+RELEASE DATE: 19-OCT-2010
+-Win32 (MFC)
 
+GCAL 10
+RELEASE DATE: 20-DEC-2010
+- Win32 (MFC)
+- corrected common names
 
+GCAL 10.1
+RELEASE DATE: 15-FEB-2011
+- Win32 (MFC)
+- corrected export and printing
 
+GCAL 10.2
+RELEASE DATE: 15-APR-2011
+- Win32 (MFC)
+- corrected timezones for Brazil
 
+GCAL 11
+RELEASE DATE: 30-JUN-2011
+- Win32 (MFC)
+- added ekadasi parana details 
+- added DST/LT note for Core Events
+- corr. first month of caturmasya (Purnima)
 
+GCAL 11, Build 2
+RELEASE DATE: 10-AUG-2011
+- Win32 (MFC)
+- corrected spelling of Pavitraropana Ekadashi 
+- corrected calc. of the first day of masa
 
+GCAL 11, Build 3
+RELEASE DATE: 19-DEC-2012
+- Win32 (MFC)
+- corrected input of latitude and longitude
 
+GCAL 12, Beta version B
+RELEASE DATE: 4-AUG-2013
+- .Net 3.5
+- complete refactoring of application to .Net platform
 
-
-
+GCAL 11, Build 5
+RELEASE DATE: 31 MAY 2019
+- Win32 (MFC)
+- added Bhadra Purnima in Hrsikesha masa 
+- remove Lalita Sasthi 
+- Appearance of Radha kunda moved to Vishnu (Caitra) Masa
